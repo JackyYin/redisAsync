@@ -1,6 +1,6 @@
 {
   "name": "@jackyyin/redisasync",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "async version redis client",
   "main": "redis.js",
   "scripts": {
