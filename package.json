@@ -1,0 +1,19 @@
+{
+  "name": "@jackyyin/redisasync",
+  "version": "1.0.0",
+  "description": "async version redis client",
+  "main": "redis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackyYin/redisAsync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackyYin/redisAsync/issues"
+  },
+  "homepage": "https://github.com/JackyYin/redisAsync#readme"
+}
